@@ -1,0 +1,35 @@
+package Assignment;
+
+
+
+	import java.lang.*;
+	import java.io.*;
+	public class Employe
+	{
+
+	public static void main(String args[]) throws IOException
+
+	{
+	
+	BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+	
+	System.out.println("Enter id:");
+	int id=Integer.parseInt(br.readLine());
+	
+
+	System.out.println("Enter empname:");
+	String name=br.readLine();
+	
+	System.out.println("Employee Detials");
+	System.out.println("id="+id);
+	System.out.println("Enter dOJ");
+	
+	int dOJ=Integer.parseInt(br.readLine());
+	
+	System.out.println("Enter Salary ");
+	int sal=Integer.parseInt(br.readLine());
+	System.out.println("Enter grade ");
+	String grade=br.readLine();
+	System.out.println(" Employee name="+name);
+	}
+	}
