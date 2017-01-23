@@ -1,0 +1,41 @@
+                                             AUTOMATION TESTING
+
+A DIFFERENCE BETWEEN MANUAL AND AUTOMATION TESTING
+     Manual Testing
+    Automation Testing
+1. Manual Testing is a process which is done manually.
+1. Automation Testing is a process which is done by the help of automated tools.
+2. All the famous phases of STLC like test planning, test deployment, result analysis, test execution, bug tracking and reporting tools are obviously comes under the category of Manual Testing and done successfully by human efforts.
+2. In Automation Testing all the popular phases of STLC are done by various open sources and purchased tools like Selenium, J meter, QTP, Load Runner, Win Runner and so on.
+3. Manual Testing is a start of Testing, without this testing we can’t start Automation Testing.
+3. Automation Testing is a continuous part of Manual Testing.
+4. In Manual Testing testers are allowed to do Random Testing to find the Bugs.
+4. In Automation Testing we always test through Running Scripts.
+5. In Manual Testing we find more bugs than automation by Error Guessing.
+5. In Automation Testing we test the repetitive functionalities of the application.
+
+B AUTOMATION TESTING
+1.automation testing is aprocess  which is performed using manual tools
+2.automation  consists a part of manual testing 
+3.automation testing is performed using manual scripts 
+C we need to automate a project because:
+1.to perform runnning scripts
+2.to test the functionalities of an application
+C.ADVANTAGES OF AUTOMATION TESTING ARE AS FOLLOWS:
+1.it helps to decrease cost 
+2.it increases optimization
+3 it performs parameterization
+D. AUTOMATION TOOLS
+selendroid,selenium,APM
+E.BENIFITS OF AUTOMATION TESTING
+ 1.it helps to decrease cost 
+2.it increases optimization
+3 it performs parameterization
+F. FRAMEWORK 
+A framework is a previously created classes which helps to develop our application
+G TYPES OF FRAMEWORK
+1data driven 
+2keyword driven
+3 modular
+4 hybrid
+H IT is a framework in automation testing
